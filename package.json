@@ -1,6 +1,6 @@
 {
   "name": "Queen_Nikka",
-  "version": "2.5.0",
+  "version": "4.0.0",
   "description": "cool WhatsApp bot created by haki (inspired by star king).",
   "main": "index.js",
   "type": "commonjs",
@@ -20,7 +20,6 @@
     "@hapi/boom": "^9.1.4",
     "@whiskeysockets/baileys": "6.6.0",
     "acrcloud": "^1.4.0",
-    "anime-character-random": "latest",
     "aptoide-scraper": "^1.0.1",
     "async-g-i-s": "^1.4.0",
     "axios": "^0.24.0",
@@ -45,7 +44,6 @@
     "jimp": "^0.16.1",
     "jsdom": "^16.4.0",
     "koyeb-api-client": "latest",
-    "link-preview-js": "^3.0.0",
     "moment-timezone": "^0.5.34",
     "mongoose": "^6.2.1",
     "mumaker": "^2.0.0",
@@ -63,9 +61,7 @@
     "translatte": "^3.0.1",
     "util": "^0.12.4",
     "wa-sticker-formatter": "^4.3.2",
-    "youtubei.js": "^7.0.0",
-    "ytdl-core": "github:franceking1/flash-dls",
-    "ytdl-secktor": "^0.0.1-development"
+    
   },
   "directories": {
     "lib": "lib",
